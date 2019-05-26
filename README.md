@@ -47,7 +47,7 @@ Used Plotly.js to build interactive charts for your dashboard.
 
 Deployed the Flask app to Heroku.
 
-https://belly-button-.herokuapp.com/
+https://belly-button-8555.herokuapp.com/
 
 - - -
 
